@@ -24,6 +24,7 @@ PROJECT TEAM MEMBERS (GROUP 1)
 - Miracle JonathanNwabuife
 - Emmanuel Chimaobi
 - Bright Princewill Munachimso
+- chine udodi excel okwuchukwu 
 
 ## Dataset
 - Source: Kaggle - ADL Classification Dataset
