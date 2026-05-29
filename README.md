@@ -64,7 +64,7 @@ install.packages(c("shiny", "shinydashboard", "plotly",
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Air-Quality-Monitoring-Dashboard.git
+https://github.com/chidera123-star/Air-Quality-Monitoiring-Dashboard.git
 ```
 
 ### 3. Run the App
